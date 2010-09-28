@@ -1,0 +1,13 @@
+Package: chopchop
+Version: 0.1
+Section: utils
+Priority: extra
+Architecture: all
+Depends: bash (>= 3.2), iptables
+Suggests: nayaboh
+Maintainer: Boris Däppen <boris_daeppen@bluewin.ch>
+Description: Set up a very simple internet cafe
+ chopchop is not yet ready.
+ .
+ So don't install it, unless you know what you are doing!
+Installed-Size: 52
